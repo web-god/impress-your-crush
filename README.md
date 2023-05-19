@@ -6,4 +6,3 @@
 
 ![image](https://github.com/web-god/components-css/assets/132649294/b9c929be-1441-40e2-a719-17ab29e32006)
 
-
